@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.bg {
+  display: flex;
+  flex-direction: column;
+  padding: 25px;
+  margin-left: 15px;
+  background-color: #161625;
+  height: 100%;
+  background-size: cover;
+}
+.nav-bar-c {
+  display: flex;
+  justify-content: flex-start;
+}
+.logo {
+  height: 45px;
+  width: 45px;
+}
+.logo-name {
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 500;
+  color: #2cc6c6;
+  margin-left: 12px;
+}
